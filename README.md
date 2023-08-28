@@ -1,6 +1,6 @@
 # ML Algorithm Selection
 
-For this assignment, we will have a look at the simplest version of Automated
+For this exercise, we will have a look at the simplest version of Automated
 Machine Learning and choose the best type of machine learning model for a given
 task. The end result (i.e. the predictive performance) is not important; how
 you get there is.
